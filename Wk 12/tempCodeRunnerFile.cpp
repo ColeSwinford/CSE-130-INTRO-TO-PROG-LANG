@@ -1,0 +1,1 @@
+if(Row1[1] != Default && Row1[2] != Default && Row1[3] != Default && Row2[1] != Default && Row2[2] != Default && Row2[3] != Default && Row3[1] != Default && Row3[2] != Default && Row3[3] != Default)
